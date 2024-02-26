@@ -6,6 +6,7 @@ import './SearchReults.module,css';
 import { SearchBar } from "../SearchBar";
 import { SearchResults } from "../SearchResults.module.css";
 import { Playlist } from "../Playlist";
+import './script.js';
 
 class App extends React.Component {
   constructor(props) {
